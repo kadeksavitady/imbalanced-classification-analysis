@@ -14,7 +14,25 @@ Proyek ini merupakan analisis statistika terapan pada permasalahan klasifikasi y
 Analisis difokuskan pada metrik recall dan F1-score karena pentingnya meminimalkan kesalahan negatif palsu dalam pengambilan keputusan klinis.
 
 >>>
+## Dataset Source
 
+**English**  
+The dataset used in this project is publicly available on Kaggle and can
+be accessed via the following link:
+[https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]
+
+Please note that the dataset is not included in this repository in
+accordance with Kaggle’s data usage policy.
+
+**Bahasa Indonesia**  
+Dataset yang digunakan dalam proyek ini tersedia secara publik di Kaggle
+dan dapat diakses melalui tautan berikut:
+[https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]
+
+Dataset tidak disertakan langsung dalam repository ini sesuai dengan
+kebijakan penggunaan data Kaggle.
+
+>>>
 ## Dataset
 
 **English**
@@ -108,3 +126,4 @@ Analisis difokuskan pada metrik recall dan F1-score karena pentingnya meminimalk
 Kadek Savita Dyutianaya  
 Applied Data Science Student  
 Politeknik Elektronika Negeri Surabaya
+
